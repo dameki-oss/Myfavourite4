@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: darkgray;
+}
+img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+img:hover {
+    transform: scale(0.9);
+}
